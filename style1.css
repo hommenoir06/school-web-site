@@ -1,0 +1,68 @@
+.fh5co-nav img{
+    width: 50%;
+    height: 50%;
+}
+.fh5co-nav .top-menu {
+    padding: 0%;
+  }
+
+.menu-1{
+    margin-top: 18px;
+}
+#back{
+    background-color:#e3f2fd;
+}
+
+.navbar{
+    background-color: #e3f2fd;
+}
+#coleur{
+    background-color: #e3f2fd;
+}
+.labomenu{
+    font-size: 200%;
+}
+#kfai{
+    text-align: center;
+    font-size: 60px;
+    line-height: 1.2em;
+    margin: 0 0 60px 0;
+    margin-bottom: 30px;
+    font: normal 36px/43px Fjalla One;
+    color: antiquewhite;
+}
+.iconcolor{
+    font-size: 82px;
+    color: #21c0d3;
+    line-height: 1em;
+}
+
+.half, .half .container > .row {
+    height: 100vh;
+    min-height: 700px; }
+
+.half .bg {
+        height: 200px; }
+        @media (max-width: 991.98px) {
+          .half .bg {
+            height: 200px; } }
+
+ .half .bg {
+ background-size: cover;
+ background-position: center;
+ background-color:rgb(169, 195, 206) }
+
+.half a {
+  color: #888;
+  text-decoration: underline; }
+
+.half .btn {
+  height: 54px;
+  padding-left: 30px;
+  padding-right: 30px; }
+
+.half .forgot-pass {
+  position: relative;
+  top: 2px;
+  font-size: 14px; }
+
